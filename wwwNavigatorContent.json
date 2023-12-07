@@ -11,6 +11,12 @@
       "references": [
         "https://developer.mozilla.org/de/docs/Web/HTML/Element/p"
       ]
+    },
+    "links": {
+      "content": "Links sind in HTML- und XHTML-Dokumenten das Mittel der Wahl, um auf andere Ressourcen zu verweisen. Sie ermöglichen es dem Benutzer, zu einer anderen Seite zu navigieren, wenn er darauf klickt.",
+      "references": [
+        "https://developer.mozilla.org/de/docs/Web/HTML/Element/a"
+      ]
     }
   },
   "css": {
@@ -23,7 +29,13 @@
     "colors": {
       "content": "Der CSS Datentyp Color beschreibt eine Farbe im sRGB Farbraum. Eine Farbe kann auf eine von drei Arten beschrieben werden: Schlüsselworte, rgb und rgba, hsl und hsla. ...",
       "references": [
-        "https://developer.mozilla.org/de/docs/Web/CSS/Farben"
+        "https://www.w3schools.com/cssref/css_colors.php"
+      ]
+    },
+    "box-model": {
+      "content": "Das Box-Modell in CSS beschreibt, wie Elemente auf einer Webseite dargestellt werden. Es umfasst die Breite, Höhe, Innenabstände (Padding), Außenabstände (Margin) und die Rahmen (Border) eines Elements.",
+      "references": [
+        "https://developer.mozilla.org/de/docs/Web/CSS/box_model"
       ]
     }
   },
@@ -31,13 +43,19 @@
     "function": {
       "content": "Funktionen sind ein Grundbaustein in JavaScript. Eine Funktion ist eine Prozedur - eine Reihe von Anweisungen, um eine Aufgabe auszuführen oder eine Wert auszurechnen. Um Funktionen zu verwenden, müssen diese im Scope (Gültigkeitsbereich) deklariert werden, in dem sie ausgeführt werden soll.",
       "references": [
-        "https://developer.mozilla.org/de/docs/Web/JavaScript/Guide/Funktionen"
+        "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions?retiredLocale=de"
       ]
     },
     "object": {
       "content": "Ein Objekt ist eine Sammlung von zusammenhängenden Daten und/oder Funktionalitäten. Diese bestehen üblicherweise aus verschiedenen Variablen und Funktionen, die Eigenschaften und Methoden genannt werden, wenn sie sich innerhalb von Objekten befinden.",
       "references": [
         "https://developer.mozilla.org/de/docs/Learn/JavaScript/Objects/Basics"
+      ]
+    },
+    "arrays": {
+      "content": "Arrays sind spezielle Typen von Objekten, die für die Speicherung von geordneten Listen von Werten verwendet werden. In JavaScript können Arrays verschiedene Datentypen enthalten und dynamisch in der Größe angepasst werden.",
+      "references": [
+        "https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Array"
       ]
     }
   }
